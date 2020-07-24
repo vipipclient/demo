@@ -1,0 +1,94 @@
+<html>
+<head><title>ILYAS BERDIBEKOV WEB SERVER</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="main">
+<h1>It Works</h1>
+<p>
+HELLO ELERON. This page has
+been loaded <b>%counter%</b> times.
+<ul>
+<img src="cats/yo.jpg"><br />
+<li>You can also control the <a href="led.tpl">LED</a>.</li>
+	
+You can also control the LED.
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI GGGGGGGGGGGGGGGGGGGGGGGGGGGGG:
+
+
+Young ingeners of FFFFFFFFFFFFFFFFFFFFFFFFFffMEPHI:
+
+
+Young ingeners ofddddddddddddddddddddddddddddddddddd MEPHI:
+
+
+Young ingeners of MEPHIsssssssssssssssssssssssssssssssssssssssss:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI GGGGGGGGGGGGGGGGGGGGGGGGGGGGG:
+
+
+Young ingeners of FFFFFFFFFFFFFFFFFFFFFFFFFffMEPHI:
+
+
+Young ingeners ofddddddddddddddddddddddddddddddddddd MEPHI:
+
+
+Young ingeners of MEPHIsssssssssssssssssssssssssssssssssssssssss:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI GGGGGGGGGGGGGGGGGGGGGGGGGGGGG:
+
+
+Young ingeners of FFFFFFFFFFFFFFFFFFFFFFFFFffMEPHI:
+
+
+Young ingeners ofddddddddddddddddddddddddddddddddddd MEPHI:
+
+
+Young ingeners of MEPHIsssssssssssssssssssssssssssssssssssssssss:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI YOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
+
+
+Young ingeners of MEPHI GGGGGGGGGGGGGGGGGGGGGGGGGGGGG:
+
+
+Young ingeners of FFFFFFFFFFFFFFFFFFFFFFFFFffMEPHI:
+
+
+Young ingeners ofddddddddddddddddddddddddddddddddddd MEPHI:
+
+
+THE END
+</ul>
+</p>
+<p>Young ingeners of MEPHI:<br />
+</p>
+</div>
+</body></html>
+
